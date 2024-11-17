@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React from 'react';
 
 import config from '../config/index.json';
@@ -49,8 +50,7 @@ const Pricing = () => {
               <div
                 className={`w-full pt-6 text-3xl text-gray-600 font-bold text-center`}
               >
-                {firstPlan?.price}
-                <span className={`text-base`}> {firstPlan?.priceDetails}</span>
+                
               </div>
             </div>
           </div>
@@ -81,8 +81,7 @@ const Pricing = () => {
               className={`flex-none mt-auto bg-background rounded-b rounded-t-none overflow-hidden shadow p-6`}
             >
               <div className={`w-full pt-6 text-4xl font-bold text-center`}>
-                {secondPlan?.price}
-                <span className={`text-base`}> {secondPlan?.priceDetails}</span>
+                
               </div>
             </div>
           </div>
@@ -112,8 +111,7 @@ const Pricing = () => {
               <div
                 className={`w-full pt-6 text-3xl text-gray-600 font-bold text-center`}
               >
-                {thirdPlan?.price}
-                <span className={`text-base`}> {thirdPlan?.priceDetails}</span>
+                
               </div>
             </div>
           </div>

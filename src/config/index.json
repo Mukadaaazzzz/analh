@@ -1,84 +1,83 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "AnalHorology Landing",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Watches",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Craftsmanship",
       "href": "features"
     },
-
     {
       "name": "Pricing",
       "href": "pricing"
     },
     {
-      "name": "About",
+      "name": "Our Story",
       "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Get started",
-    "href": "#"
+    "text": "Shop Now",
+    "href": "/shopnow"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Time Refined",
+    "subtitle": "Elegance Defined",
+    "description": "Discover timeless craftsmanship with AnalHorology. Every piece we design reflects precision, elegance, and a legacy of sophistication. Experience the art of horology redefined.",
+    "img": "/assets/images/heroo.jpg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Shop Now",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Contact Us",
+      "href": "mailto:alhajiolayiwola56@gmail.com?subject=Inquiry about luxury watches"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Exclusive Timepieces",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "The Chronos Collection",
+        "description": "A fusion of tradition and innovation, designed for those who value timeless style and modern sophistication.",
+        "img": "/assets/images/collection.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "Customizable Luxury",
+        "description": "Personalize your watch to reflect your unique personality. From engravings to bespoke designs, create a masterpiece that's truly yours.",
+        "img": "/assets/images/customise.svg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "The Art of Horology",
+    "subtitle": "Meticulous Craftsmanship, Timeless Elegance",
+    "description": "Each watch is meticulously crafted by master horologists, blending precision engineering with unparalleled artistry. Discover what sets AnalHorology apart.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "Swiss Movement",
+        "description": "Featuring state-of-the-art Swiss movements for unmatched accuracy and durability.",
+        "icon": "/assets/images/accuracy.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "Premium Materials",
+        "description": "Crafted with sapphire crystal, gold, platinum, and fine leather for enduring luxury.",
+        "icon": "/assets/images/diamond.png"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "name": "Timeless Design",
+        "description": "Blending classic aesthetics with modern innovation for a timeless look.",
+        "icon": "/assets/images/innovation.png"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Limited Editions",
+        "description": "Exclusive, limited-run designs for collectors and connoisseurs.",
+        "icon": "/assets/images/best-seller.png"
       }
     ]
   },
@@ -86,37 +85,36 @@
     "title": "Pricing",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "Classic",
+        "price": "$5,000",
+        "priceDetails": "starting price",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "Swiss Movement",
+          "Sapphire Crystal",
+          "Leather Strap",
+          "2-Year Warranty"
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
-
+        "name": "Premium",
+        "price": "$12,000",
+        "priceDetails": "starting price",
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "Gold-Plated Finish",
+          "Custom Engravings",
+          "Exclusive Packaging",
+          "Lifetime Warranty"
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
+        "name": "Bespoke",
+        "price": "Custom Pricing",
+        "priceDetails": "tailored to your specifications",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "Personalized Design",
+          "Rare Materials",
+          "Dedicated Horologist",
+          "Lifetime Concierge Service"
         ]
       }
     ]
@@ -124,30 +122,30 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
+        "name": "Our Heritage",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "At AnalHorology, we are driven by a passion for excellence and a commitment to creating timeless masterpieces. Every watch tells a story of heritage and precision."
       },
       {
-        "name": "Something",
+        "name": "Craftsmanship",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "Our team of master horologists brings decades of experience to every design. From intricate details to flawless engineering, we craft watches that stand the test of time."
       },
       {
-        "name": "Something",
+        "name": "Sustainability",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "We are dedicated to sustainable practices, using ethically sourced materials and eco-friendly production methods to ensure our creations are as responsible as they are beautiful."
       },
       {
-        "name": "Something",
+        "name": "Contact Us",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "Have questions or need assistance? Our team is here to help. Contact us for personalized support and inquiries."
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "instagram": "https://www.instagram.com/hajiolayiwolaajagun?igsh=YzljYTk1ODg3Zg==",
+      "facebook": "https://www.facebook.com/hajiolayiwola.ajagun",
+      "linkedin": "https://www.linkedin.com/in/alhaji-olayiwola-8a3b95275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
     }
   }
 }

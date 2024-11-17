@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React, { MutableRefObject, useEffect, useRef, useState } from 'react';
 
 import { motion, useAnimation } from 'framer-motion';
